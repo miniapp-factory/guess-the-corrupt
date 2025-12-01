@@ -128,3 +128,43 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-12-01 06:06:40.088260
++make this to 3-4 senteneces
++
++Game Prompt:
++"You are in a political hearing. Review the basic information about the politician — including their monthly salary and declared wealth. Decide if they are CORRUPT or NOT CORRUPT."
++Simple Mechanics:
++Display politician profile with clear, concise info.
++Two buttons at the bottom of the screen:
++"CORRUPT"
++"NOT CORRUPT"
++Player taps one button to submit their guess.
++If the guess is correct, the screen briefly flashes green or displays a positive confirmation.
++If the guess is wrong, the entire screen background turns red for 1-2 seconds to indicate the incorrect choice.
++After the feedback, automatically proceed to the next politician profile.
++Keep score of correct guesses.
++Optionally, add a timer bar for extra challenge on each guess.
+
+# 2025-12-01 06:06:40.089200
++make this to 3-4 senteneces
++
++Game Prompt:
++"You are in a political hearing. Review the basic information about the politician — including their monthly salary and declared wealth. Decide if they are CORRUPT or NOT CORRUPT."
++Simple Mechanics:
++Display politician profile with clear, concise info.
++Two buttons at the bottom of the screen:
++"CORRUPT"
++"NOT CORRUPT"
++Player taps one button to submit their guess.
++If the guess is correct, the screen briefly flashes green or displays a positive confirmation.
++If the guess is wrong, the entire screen background turns red for 1-2 seconds to indicate the incorrect choice.
++After the feedback, automatically proceed to the next politician profile.
++Keep score of correct guesses.
++Optionally, add a timer bar for extra challenge on each guess.
+
+# 2025-12-01 06:07:00.103533
++apply changes
+
+# 2025-12-01 06:07:00.104236
++apply changes
